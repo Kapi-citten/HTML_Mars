@@ -1,0 +1,28 @@
+h1 {
+   color: #d22e3a;
+}
+
+.red{
+background-color: rgba(255, 0, 0, 0.6); /* Полупрозрачный красный фон с помощью RGBA-значения */
+color: rgb(255, 0, 0);
+}
+
+.black{
+background-color: rgba(0, 0, 0, 0.6);
+color: rgb(0, 0, 0);
+}
+
+.green{
+background-color: rgba(120, 100, 50, 0.6);
+color: rgb(120, 100, 50);
+}
+
+.grey{
+background-color: rgba(128, 128, 128, 0.6);
+color: rgb(128, 128, 128);
+}
+
+.yellow{
+background-color: rgba(255, 255, 0, 0.4);
+color: rgb(220, 220, 0);
+}
